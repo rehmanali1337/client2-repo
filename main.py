@@ -4,6 +4,7 @@
 
 """Edited on master"""
 
+"""Another hotfix on the master branch but we need only main.py on target"""
 
 """Bug even in main.py"""
 
